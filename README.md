@@ -1,5 +1,5 @@
 
-Python 3.11 | Windows users but easily adjustable | Beta 
+[![Download decimator](https://img.shields.io/sourceforge/dt/decimator.svg)](https://sourceforge.net/projects/decimator/files/latest/download)Python 3.11 | Windows users but easily adjustable | Beta 
 
 ```
 ██████╗ ███████╗ ██████╗██╗███╗   ███╗ █████╗ ████████╗ ██████╗ ██████╗ 
@@ -30,21 +30,10 @@ Or compile it by yourself , I made a tutorial downside of this page.
 - Error handling for situations where a file or folder cannot be deleted
 - The program was written using the PyQt5 library for the GUI and the os and shutil modules for working with files and directories.
 
-## Getting Started
-To use the program, simply run the delete_files_gui.py file in a Python environment that has PyQt5 installed. The program will open a GUI window that allows you to select the folder and enter the name of the file or folder to be deleted.
-
-## Usage
-To use the program:
-
-1. Open the program by running the delete_files_gui.py file.
-2. Select the folder from which you want to delete files and folders.
-3. Enter the name of the file or folder that you want to delete.
-4. Check the "Case sensitive" checkbox if you want to perform a case-sensitive search.
-5. Click the "Delete" button to begin the deletion process.
-6. Wait for the program to delete the files and folders. The progress bar will update as files and folders are deleted.
-7. Once the program has finished executing, a message will be displayed indicating that the deletion is complete.
 
 Note: Be careful when using this program, as it permanently deletes files and folders from your computer. Make sure you have selected the correct folder and file/folder name before running the program.
+
+[![Download decimator](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/decimator/files/latest/download)
 
 ## Contributing
 If you have suggestions for improving this program, feel free to submit a pull request or create an issue on Github.
