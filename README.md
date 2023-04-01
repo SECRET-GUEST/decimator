@@ -18,11 +18,11 @@ This is a Python program that allows users to delete files and folders from a sp
 
 ## The program includes the following features:
 
-Support for deleting files and folders with a specified name
-Support for case-sensitive and case-insensitive searches
-A progress bar that updates as files and folders are deleted
-Error handling for situations where a file or folder cannot be deleted
-The program was written using the PyQt5 library for the GUI and the os and shutil modules for working with files and directories.
+- Support for deleting files and folders with a specified name
+- Support for case-sensitive and case-insensitive searches
+- A progress bar that updates as files and folders are deleted
+- Error handling for situations where a file or folder cannot be deleted
+- The program was written using the PyQt5 library for the GUI and the os and shutil modules for working with files and directories.
 
 ## Getting Started
 To use the program, simply run the delete_files_gui.py file in a Python environment that has PyQt5 installed. The program will open a GUI window that allows you to select the folder and enter the name of the file or folder to be deleted.
@@ -30,21 +30,18 @@ To use the program, simply run the delete_files_gui.py file in a Python environm
 ## Usage
 To use the program:
 
-Open the program by running the delete_files_gui.py file.
-Select the folder from which you want to delete files and folders.
-Enter the name of the file or folder that you want to delete.
-Check the "Case sensitive" checkbox if you want to perform a case-sensitive search.
-Click the "Delete" button to begin the deletion process.
-Wait for the program to delete the files and folders. The progress bar will update as files and folders are deleted.
-Once the program has finished executing, a message will be displayed indicating that the deletion is complete.
+1. Open the program by running the delete_files_gui.py file.
+2. Select the folder from which you want to delete files and folders.
+3. Enter the name of the file or folder that you want to delete.
+4. Check the "Case sensitive" checkbox if you want to perform a case-sensitive search.
+5. Click the "Delete" button to begin the deletion process.
+6. Wait for the program to delete the files and folders. The progress bar will update as files and folders are deleted.
+7. Once the program has finished executing, a message will be displayed indicating that the deletion is complete.
+
 Note: Be careful when using this program, as it permanently deletes files and folders from your computer. Make sure you have selected the correct folder and file/folder name before running the program.
 
-Contributing
+## Contributing
 If you have suggestions for improving this program, feel free to submit a pull request or create an issue on Github.
-
----
-
-Feel free to adapt this presentation to your needs and add any additional information or screenshots as necessary.
 
 
 ## :scroll: License
