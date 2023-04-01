@@ -14,6 +14,12 @@ Python 3.11 | for windows users | Beta
 # Program for Deleting Files
 This is a Python program that allows users to delete files and folders from a specified directory. The program provides a graphical user interface (GUI) that allows users to select the directory and enter the name of the file or folder to be deleted.
 
+In release section you can download an executable ready to launch (portable) made for windows with pyinstaller.
+
+It's a non-signed software because I prefer to save my money for real stuff, so it will be detected as a malware from bad anti-virus, you can still test on sandbox here  : https://www.virustotal.com/gui/home/upload 
+
+Or compile it by yourself , I made a tutorial downside of this page.
+
 ![Capture d'écran 2023-04-01 063810](https://user-images.githubusercontent.com/92639080/229266007-1983d589-ce33-4488-9c02-f3ad0ae557cf.png)
 
 ## The program includes the following features:
