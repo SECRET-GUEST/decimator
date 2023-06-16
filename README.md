@@ -36,13 +36,6 @@ Note: Be careful when using this program, as it permanently deletes files and fo
 [![Download decimator](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/decimator/files/latest/download)
 
 
-BTW, if you are searching for more desk tools to opmtimize your productivity you can also check those pages :
-
-- Generate barcode without being hacked by ransomware here : https://github.com/SECRET-GUEST/barcraft
-- Manage in and outbound with th window firewall by settings tables easily : https://github.com/SECRET-GUEST/boundman
-- A powerful autoclicker : https://github.com/SECRET-GUEST/autoclicker
-
-And there are more in tiny script (without graphical user interface but easy to use ) : https://github.com/SECRET-GUEST/tiny-scripts
 
 
 
@@ -59,6 +52,16 @@ This repository is released under the [MIT License](LICENSE). Please see the `LI
 If you have any questions or need support, please feel free to open an issue or join my twitter.
 
 
+# :gem: Recommendations  
+
+If you're in search of more tools to optimize your desktop productivity, these repositories might interest you:
+
+- [Nukey](https://github.com/SECRET-GUEST/nukey) : rewrites entire disk content with zeros, making data recovery virtually impossible .
+- [Boundman](https://github.com/SECRET-GUEST/boundman) : Easily manage inbound and outbound settings with this Windows firewall tool.
+- [AutoClicker](https://github.com/SECRET-GUEST/autoclicker) : A robust autoclicker tool.
+
+Discover more user-friendly scripts without a GUI here: 
+- [Tiny Scripts](https://github.com/SECRET-GUEST/tiny-scripts)
 
 
 
