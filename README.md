@@ -1,4 +1,4 @@
-
+[![Download decimator](https://img.shields.io/sourceforge/dt/decimator.svg)](https://sourceforge.net/projects/decimator/files/latest/download)
 ```
 ██████╗ ███████╗ ██████╗██╗███╗   ███╗ █████╗ ████████╗ ██████╗ ██████╗ 
 ██╔══██╗██╔════╝██╔════╝██║████╗ ████║██╔══██╗╚══██╔══╝██╔═══██╗██╔══██╗
@@ -18,7 +18,7 @@ It's a non-signed software because I prefer to save my money for real stuff, so 
 
 Or compile it by yourself , I made a tutorial downside of this page.
 
-![Capture d'écran 2023-04-01 063810](https://user-images.githubusercontent.com/92639080/229266007-1983d589-ce33-4488-9c02-f3ad0ae557cf.png)
+![image](https://github.com/SECRET-GUEST/decimator/assets/92639080/cd0c85fc-0225-420f-9ac9-c030f0336bce)
 
 ## The program includes the following features:
 
@@ -31,11 +31,8 @@ Or compile it by yourself , I made a tutorial downside of this page.
 
 Note: Be careful when using this program, as it permanently deletes files and folders from your computer. Make sure you have selected the correct folder and file/folder name before running the program.
 
+
 [![Download decimator](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/decimator/files/latest/download)
-
-
-
-
 
 ## Contributing
 If you have suggestions for improving this program, feel free to submit a pull request or create an issue on Github.
