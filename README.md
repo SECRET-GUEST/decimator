@@ -1,6 +1,4 @@
 
-[![Download decimator](https://img.shields.io/sourceforge/dt/decimator.svg)](https://sourceforge.net/projects/decimator/files/latest/download) ![version](https://img.shields.io/badge/VERSION-BETA-orange) ![version](https://img.shields.io/badge/PYTHON-3.11-blue) ![version](https://img.shields.io/badge/EXE-WINDOWS-blue)
-
 ```
 ██████╗ ███████╗ ██████╗██╗███╗   ███╗ █████╗ ████████╗ ██████╗ ██████╗ 
 ██╔══██╗██╔════╝██╔════╝██║████╗ ████║██╔══██╗╚══██╔══╝██╔═══██╗██╔══██╗
@@ -8,8 +6,8 @@
 ██║  ██║██╔══╝  ██║     ██║██║╚██╔╝██║██╔══██║   ██║   ██║   ██║██╔══██╗
 ██████╔╝███████╗╚██████╗██║██║ ╚═╝ ██║██║  ██║   ██║   ╚██████╔╝██║  ██║
 ╚═════╝ ╚══════╝ ╚═════╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
-                                                                        
 ```
+(https://img.shields.io/badge/VERSION-BETA-orange) ![version](https://img.shields.io/badge/PYTHON-3.11-blue) ![version](https://img.shields.io/badge/EXE-WINDOWS-blue)
 
 # Program for Deleting Files
 This is a Python program that allows users to delete files and folders from a specified directory. The program provides a graphical user interface (GUI) that allows users to select the directory and enter the name of the file or folder to be deleted.
@@ -45,7 +43,7 @@ If you have suggestions for improving this program, feel free to submit a pull r
 
 ## :scroll: License
 
-This repository is released under the [MIT License](LICENSE). Please see the `LICENSE` file for more information.
+This software is released under the [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl-3.0.en.html). Please see the `LICENSE` file for more information.
 
 ## :question: Support & Questions
 
